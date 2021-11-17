@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<h3 align="center"><b>배우는거 learning</b></h3>
+<h3 align="center"><b>배우는거</b></h3>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   &nbsp;
