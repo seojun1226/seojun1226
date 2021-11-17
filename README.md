@@ -1,9 +1,7 @@
 <h2 align="center"><b>SeoJun</b></h2>
 <p align="center">
   중3 학생임
-  <br>
-  <br>
-  
+  <br><br>
   <a href="https://seojun.pw/"><img src="https://img.shields.io/badge/Homepage-585DFF?style=flat-square"/></a>
   &nbsp;&nbsp;
   <a href="mailto:seojun@hypermusic.pw"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
