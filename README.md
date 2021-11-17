@@ -27,7 +27,7 @@
 </p>
 <br>
 
-<h3 align="center"><b>툴 tool</h3>
+<h3 align="center"><b>툴</h3>
  <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
   &nbsp;
